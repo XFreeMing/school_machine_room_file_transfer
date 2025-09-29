@@ -2,7 +2,7 @@
 """
 构建脚本 - 用于打包教师端和学生端为exe文件
 """
-import os
+# 移除未使用的 os 导入
 import shutil
 import subprocess
 import sys
@@ -52,6 +52,12 @@ def main():
     dist_dir = Path("dist")
     dist_dir.mkdir(exist_ok=True)
 
+    # 先创建数据目录（PyInstaller 在 teacher spec 中需要预先存在的 data 目录）
+    data_dirs = ["data", "data/teacher_files", "data/student_work"]
+    for dir_path in data_dirs:
+        Path(dir_path).mkdir(parents=True, exist_ok=True)
+    print("✅ 预创建数据目录供打包使用")
+
     # 构建教师端
     print("\n👨‍🏫 构建教师端...")
     if not run_command("uv run pyinstaller build_teacher.spec", "打包教师端"):
@@ -87,12 +93,6 @@ def main():
                 print(f"✅ 文件已存在 {src}")
         else:
             print(f"⚠️  未找到 {src}")
-
-    # 创建数据目录
-    data_dirs = ["data/teacher_files", "data/student_work"]
-    for dir_path in data_dirs:
-        Path(dir_path).mkdir(parents=True, exist_ok=True)
-        print(f"✅ 创建目录 {dir_path}")
 
     # 创建启动脚本
     create_startup_scripts()

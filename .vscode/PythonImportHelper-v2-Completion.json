@@ -1,0 +1,643 @@
+[
+    {
+        "label": "runpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "runpy",
+        "description": "runpy",
+        "detail": "runpy",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "site",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "site",
+        "description": "site",
+        "detail": "site",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "shutil",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "shutil",
+        "description": "shutil",
+        "detail": "shutil",
+        "documentation": {}
+    },
+    {
+        "label": "subprocess",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "subprocess",
+        "description": "subprocess",
+        "detail": "subprocess",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "platform",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "platform",
+        "description": "platform",
+        "detail": "platform",
+        "documentation": {}
+    },
+    {
+        "label": "socket",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "socket",
+        "description": "socket",
+        "detail": "socket",
+        "documentation": {}
+    },
+    {
+        "label": "threading",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "threading",
+        "description": "threading",
+        "detail": "threading",
+        "documentation": {}
+    },
+    {
+        "label": "tkinter",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "filedialog",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "messagebox",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "simpledialog",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "ttk",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "ttk",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "filedialog",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "messagebox",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "scrolledtext",
+        "importPath": "tkinter",
+        "description": "tkinter",
+        "isExtraImport": true,
+        "detail": "tkinter",
+        "documentation": {}
+    },
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "http.server",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "http.server",
+        "description": "http.server",
+        "detail": "http.server",
+        "documentation": {}
+    },
+    {
+        "label": "socketserver",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "socketserver",
+        "description": "socketserver",
+        "detail": "socketserver",
+        "documentation": {}
+    },
+    {
+        "label": "urlparse",
+        "importPath": "urllib.parse",
+        "description": "urllib.parse",
+        "isExtraImport": true,
+        "detail": "urllib.parse",
+        "documentation": {}
+    },
+    {
+        "label": "parse_qs",
+        "importPath": "urllib.parse",
+        "description": "urllib.parse",
+        "isExtraImport": true,
+        "detail": "urllib.parse",
+        "documentation": {}
+    },
+    {
+        "label": "webbrowser",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "webbrowser",
+        "description": "webbrowser",
+        "detail": "webbrowser",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "send_file",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "CORS",
+        "importPath": "flask_cors",
+        "description": "flask_cors",
+        "isExtraImport": true,
+        "detail": "flask_cors",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "FileManager",
+        "importPath": "server.file_manager",
+        "description": "server.file_manager",
+        "isExtraImport": true,
+        "detail": "server.file_manager",
+        "documentation": {}
+    },
+    {
+        "label": "TeacherAPIClient",
+        "importPath": "client.common",
+        "description": "client.common",
+        "isExtraImport": true,
+        "detail": "client.common",
+        "documentation": {}
+    },
+    {
+        "label": "StudentAPIClient",
+        "importPath": "client.common",
+        "description": "client.common",
+        "isExtraImport": true,
+        "detail": "client.common",
+        "documentation": {}
+    },
+    {
+        "label": "bin_dir",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "bin_dir = os.path.dirname(abs_file)\nbase = bin_dir[: -len(\"Scripts\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"school-file-transfer\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "base",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "base = bin_dir[: -len(\"Scripts\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"school-file-transfer\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"PATH\"]",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"school-file-transfer\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV\"]",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"school-file-transfer\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV_PROMPT\"]",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV_PROMPT\"] = \"school-file-transfer\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "prev_length",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "prev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.path[:]",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "sys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.real_prefix",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "sys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.prefix",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "sys.prefix = base",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "run_command",
+        "kind": 2,
+        "importPath": "build",
+        "description": "build",
+        "peekOfCode": "def run_command(cmd, description):\n    \"\"\"运行命令并显示进度\"\"\"\n    print(f\"\\n{'='*50}\")\n    print(f\"正在{description}...\")\n    print(f\"命令: {cmd}\")\n    print(\"=\" * 50)\n    try:\n        result = subprocess.run(\n            cmd, shell=True, check=True, capture_output=True, text=True\n        )",
+        "detail": "build",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "build",
+        "description": "build",
+        "peekOfCode": "def main():\n    \"\"\"主构建流程\"\"\"\n    print(\"🚀 开始构建学校机房文件传输系统...\")\n    print(\"📋 新架构：教师端集成服务器，学生端自动连接\")\n    # 检查uv是否安装\n    if not shutil.which(\"uv\"):\n        print(\"❌ 错误: 未找到uv，请先安装uv\")\n        print(\"安装命令: curl -LsSf https://astral.sh/uv/install.sh | sh\")\n        return False\n    # 安装依赖",
+        "detail": "build",
+        "documentation": {}
+    },
+    {
+        "label": "create_startup_scripts",
+        "kind": 2,
+        "importPath": "build",
+        "description": "build",
+        "peekOfCode": "def create_startup_scripts():\n    \"\"\"创建启动脚本\"\"\"\n    # 教师端启动脚本\n    teacher_script = \"\"\"@echo off\necho Starting Teacher Client...\necho Teacher client includes file server functionality\necho Student clients will automatically connect to this machine\necho.\n教师端.exe\npause",
+        "detail": "build",
+        "documentation": {}
+    },
+    {
+        "label": "create_windows_batch_files",
+        "kind": 2,
+        "importPath": "create_windows_batch",
+        "description": "create_windows_batch",
+        "peekOfCode": "def create_windows_batch_files():\n    \"\"\"创建Windows兼容的批处理文件\"\"\"\n    # 教师端批处理文件\n    teacher_bat = \"\"\"@echo off\nchcp 65001 >nul\necho Starting Teacher Client...\necho Teacher client includes file server functionality\necho Student clients will automatically connect to this machine\necho.\n教师端.exe",
+        "detail": "create_windows_batch",
+        "documentation": {}
+    },
+    {
+        "label": "detect_platform",
+        "kind": 2,
+        "importPath": "cross_platform_build",
+        "description": "cross_platform_build",
+        "peekOfCode": "def detect_platform():\n    \"\"\"检测当前平台\"\"\"\n    system = platform.system().lower()\n    if system == \"windows\":\n        return \"windows\"\n    elif system == \"darwin\":\n        return \"macos\"\n    elif system == \"linux\":\n        return \"linux\"\n    else:",
+        "detail": "cross_platform_build",
+        "documentation": {}
+    },
+    {
+        "label": "install_dependencies",
+        "kind": 2,
+        "importPath": "cross_platform_build",
+        "description": "cross_platform_build",
+        "peekOfCode": "def install_dependencies():\n    \"\"\"安装依赖\"\"\"\n    print(\"📦 安装依赖包...\")\n    dependencies = [\n        \"flask>=3.1.2\",\n        \"flask-cors>=6.0.1\",\n        \"requests>=2.32.5\",\n        \"pyinstaller>=6.16.0\",\n    ]\n    for dep in dependencies:",
+        "detail": "cross_platform_build",
+        "documentation": {}
+    },
+    {
+        "label": "build_for_current_platform",
+        "kind": 2,
+        "importPath": "cross_platform_build",
+        "description": "cross_platform_build",
+        "peekOfCode": "def build_for_current_platform():\n    \"\"\"为当前平台构建\"\"\"\n    current_platform = detect_platform()\n    print(f\"🖥️  检测到平台: {current_platform}\")\n    if current_platform == \"windows\":\n        return build_windows()\n    elif current_platform == \"macos\":\n        return build_macos()\n    elif current_platform == \"linux\":\n        return build_linux()",
+        "detail": "cross_platform_build",
+        "documentation": {}
+    },
+    {
+        "label": "build_windows",
+        "kind": 2,
+        "importPath": "cross_platform_build",
+        "description": "cross_platform_build",
+        "peekOfCode": "def build_windows():\n    \"\"\"构建Windows版本\"\"\"\n    print(\"🪟 构建Windows版本...\")\n    # 教师端\n    teacher_cmd = [\n        \"pyinstaller\",\n        \"--onefile\",\n        \"--windowed\",\n        \"--name=教师端\",\n        \"--add-data=data;data\",",
+        "detail": "cross_platform_build",
+        "documentation": {}
+    },
+    {
+        "label": "build_macos",
+        "kind": 2,
+        "importPath": "cross_platform_build",
+        "description": "cross_platform_build",
+        "peekOfCode": "def build_macos():\n    \"\"\"构建macOS版本\"\"\"\n    print(\"🍎 构建macOS版本...\")\n    # 教师端\n    teacher_cmd = [\n        \"pyinstaller\",\n        \"--onefile\",\n        \"--windowed\",\n        \"--name=教师端\",\n        \"--add-data=data:data\",",
+        "detail": "cross_platform_build",
+        "documentation": {}
+    },
+    {
+        "label": "build_linux",
+        "kind": 2,
+        "importPath": "cross_platform_build",
+        "description": "cross_platform_build",
+        "peekOfCode": "def build_linux():\n    \"\"\"构建Linux版本\"\"\"\n    print(\"🐧 构建Linux版本...\")\n    # 教师端\n    teacher_cmd = [\n        \"pyinstaller\",\n        \"--onefile\",\n        \"--name=教师端\",\n        \"--add-data=data:data\",\n        \"teacher_app.py\",",
+        "detail": "cross_platform_build",
+        "documentation": {}
+    },
+    {
+        "label": "create_startup_scripts",
+        "kind": 2,
+        "importPath": "cross_platform_build",
+        "description": "cross_platform_build",
+        "peekOfCode": "def create_startup_scripts():\n    \"\"\"创建启动脚本\"\"\"\n    current_platform = detect_platform()\n    if current_platform == \"windows\":\n        # Windows批处理文件\n        teacher_script = \"\"\"@echo off\n教师端.exe\n\"\"\"\n        student_script = \"\"\"@echo off\n学生端.exe",
+        "detail": "cross_platform_build",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "cross_platform_build",
+        "description": "cross_platform_build",
+        "peekOfCode": "def main():\n    \"\"\"主函数\"\"\"\n    print(\"🚀 跨平台构建脚本\")\n    print(\"=\" * 50)\n    # 安装依赖\n    if not install_dependencies():\n        print(\"❌ 依赖安装失败\")\n        return False\n    # 创建dist目录\n    Path(\"dist\").mkdir(exist_ok=True)",
+        "detail": "cross_platform_build",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def main():\n    print(\"Hello from school-machine-room-file-transfer!\")\nif __name__ == \"__main__\":\n    main()",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "StudentApp",
+        "kind": 6,
+        "importPath": "student_app",
+        "description": "student_app",
+        "peekOfCode": "class StudentApp:\n    def __init__(self):\n        self.root = tk.Tk()\n        self.root.title(\"学生端 - 文件传输系统\")\n        self.root.geometry(\"700x500\")\n        # 学生姓名\n        self.student_name = \"\"\n        # 教师端连接信息（改为手动输入）\n        self.teacher_ip = None\n        self.teacher_port = 5000",
+        "detail": "student_app",
+        "documentation": {}
+    },
+    {
+        "label": "FileManager",
+        "kind": 6,
+        "importPath": "teacher_app",
+        "description": "teacher_app",
+        "peekOfCode": "class FileManager:\n    \"\"\"文件管理类\"\"\"\n    def __init__(self, base_dir: str = \"data\"):\n        self.base_dir = Path(base_dir)\n        self.teacher_files_dir = self.base_dir / \"teacher_files\"\n        self.student_work_dir = self.base_dir / \"student_work\"\n        self.metadata_file = self.base_dir / \"metadata.json\"\n        # 创建必要的目录\n        self.teacher_files_dir.mkdir(parents=True, exist_ok=True)\n        self.student_work_dir.mkdir(parents=True, exist_ok=True)",
+        "detail": "teacher_app",
+        "documentation": {}
+    },
+    {
+        "label": "TeacherApp",
+        "kind": 6,
+        "importPath": "teacher_app",
+        "description": "teacher_app",
+        "peekOfCode": "class TeacherApp:\n    def __init__(self):\n        self.root = tk.Tk()\n        self.root.title(\"教师端 - 文件传输系统\")\n        self.root.geometry(\"900x700\")\n        # 初始化文件管理器\n        self.file_manager = FileManager()\n        # 服务器相关\n        self.server = None\n        self.server_thread = None",
+        "detail": "teacher_app",
+        "documentation": {}
+    },
+    {
+        "label": "test_teacher_app",
+        "kind": 2,
+        "importPath": "test_simple_system",
+        "description": "test_simple_system",
+        "peekOfCode": "def test_teacher_app():\n    \"\"\"测试教师端应用\"\"\"\n    print(\"🧪 测试教师端应用...\")\n    try:\n        # 导入教师端模块\n        from teacher_app import FileManager\n        # 创建测试文件\n        test_file = \"test_file.txt\"\n        with open(test_file, \"w\", encoding=\"utf-8\") as f:\n            f.write(\"这是一个测试文件\")",
+        "detail": "test_simple_system",
+        "documentation": {}
+    },
+    {
+        "label": "test_student_app",
+        "kind": 2,
+        "importPath": "test_simple_system",
+        "description": "test_simple_system",
+        "peekOfCode": "def test_student_app():\n    \"\"\"测试学生端应用\"\"\"\n    print(\"🧪 测试学生端应用...\")\n    try:\n        # 导入学生端模块\n        from student_app import StudentApp\n        # 测试IP获取功能\n        app = StudentApp()\n        local_ip = app.get_local_ip()\n        print(f\"✅ 本机IP获取成功: {local_ip}\")",
+        "detail": "test_simple_system",
+        "documentation": {}
+    },
+    {
+        "label": "test_network_discovery",
+        "kind": 2,
+        "importPath": "test_simple_system",
+        "description": "test_simple_system",
+        "peekOfCode": "def test_network_discovery():\n    \"\"\"测试网络发现功能\"\"\"\n    print(\"🧪 测试网络发现功能...\")\n    try:\n        import socket\n        # 获取本机IP\n        s = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)\n        s.connect((\"8.8.8.8\", 80))\n        local_ip = s.getsockname()[0]\n        s.close()",
+        "detail": "test_simple_system",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "test_simple_system",
+        "description": "test_simple_system",
+        "peekOfCode": "def main():\n    \"\"\"主测试函数\"\"\"\n    print(\"🚀 开始测试简化版文件传输系统...\")\n    print(\"📋 架构：教师端集成服务器 + 学生端自动连接\")\n    print(\"=\" * 60)\n    tests = [\n        (\"教师端应用\", test_teacher_app),\n        (\"学生端应用\", test_student_app),\n        (\"网络发现\", test_network_discovery),\n    ]",
+        "detail": "test_simple_system",
+        "documentation": {}
+    },
+    {
+        "label": "test_file_manager",
+        "kind": 2,
+        "importPath": "test_system",
+        "description": "test_system",
+        "peekOfCode": "def test_file_manager():\n    \"\"\"测试文件管理器\"\"\"\n    print(\"🧪 测试文件管理器...\")\n    try:\n        # 创建测试文件\n        test_file = \"test_file.txt\"\n        with open(test_file, \"w\", encoding=\"utf-8\") as f:\n            f.write(\"这是一个测试文件\")\n        # 初始化文件管理器\n        fm = FileManager(\"test_data\")",
+        "detail": "test_system",
+        "documentation": {}
+    },
+    {
+        "label": "test_api_client",
+        "kind": 2,
+        "importPath": "test_system",
+        "description": "test_system",
+        "peekOfCode": "def test_api_client():\n    \"\"\"测试API客户端\"\"\"\n    print(\"🧪 测试API客户端...\")\n    try:\n        # 测试老师端API\n        teacher_api = TeacherAPIClient()\n        health = teacher_api.health_check()\n        if health.get(\"status\") == \"ok\":\n            print(\"✅ API客户端测试通过\")\n            return True",
+        "detail": "test_system",
+        "documentation": {}
+    },
+    {
+        "label": "test_server_startup",
+        "kind": 2,
+        "importPath": "test_system",
+        "description": "test_system",
+        "peekOfCode": "def test_server_startup():\n    \"\"\"测试服务器启动\"\"\"\n    print(\"🧪 测试服务器启动...\")\n    try:\n        # 尝试启动服务器（在后台）\n        from server.app import app\n        import threading\n        def run_server():\n            app.run(host='127.0.0.1', port=5001, debug=False, use_reloader=False)\n        server_thread = threading.Thread(target=run_server, daemon=True)",
+        "detail": "test_system",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "test_system",
+        "description": "test_system",
+        "peekOfCode": "def main():\n    \"\"\"主测试函数\"\"\"\n    print(\"🚀 开始系统测试...\")\n    print(\"=\" * 50)\n    tests = [\n        (\"文件管理器\", test_file_manager),\n        (\"API客户端\", test_api_client),\n        (\"服务器启动\", test_server_startup),\n    ]\n    passed = 0",
+        "detail": "test_system",
+        "documentation": {}
+    }
+]
